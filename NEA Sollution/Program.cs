@@ -13,6 +13,11 @@ namespace NEA_Sollution
             Console.WriteLine("testing");
             Console.WriteLine("testing 2");
             Console.WriteLine("ARGG its not working :(");
+            for(int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
+
             Console.ReadKey();
         }
     }
