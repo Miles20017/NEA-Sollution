@@ -11,6 +11,7 @@ namespace NEA_Sollution
         static void Main(string[] args)
         {
             Console.WriteLine("testing");
+            Console.WriteLine("hi");
             Console.ReadKey();
         }
     }
